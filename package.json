@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "netlify-cli": "^9.16.6",
+    "node-fetch": "^3.2.3"
+  },
+  "name": "first-severless-payalazelaya",
+  "description": "Learn how to use serverless functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/first-serverless-payalazelaya.git"
+  },
+  "author": "Paola Ayala Zelaya <paolaaz235@gmail.com> (https://github.com/payalazelaya)",
+  "license": "MIT",
+  "bugs": {
+    "url": "git+https://github.com/RVCC-IDMX/first-serverless-payalazelaya/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/first-serverless-payalazelaya#readme"
+}
