@@ -16,7 +16,7 @@ exports.handler = async function (event, context) {
   const data = await response.json();
 
   console.log(
-    chalk.blue(`\tNumber of entries: ${datat.pokemon_entries.length}`)
+    chalk.blue(`\tNumber of entries: ${data.pokemon_entries.length}`)
   );
 
   return {

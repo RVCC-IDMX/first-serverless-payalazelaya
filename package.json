@@ -1,27 +1,27 @@
 {
-  "devDependencies": {
-    "netlify-cli": "^9.16.6",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "luxon": "^2.3.1",
     "node-fetch": "^3.2.3"
   },
   "name": "first-severless-payalazelaya",
-  "description": "Learn how to use serverless functions",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
   "version": "1.0.0",
   "main": "index.js",
+  "devDependencies": {
+    "netlify-cli": "^9.16.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RVCC-IDMX/first-serverless-payalazelaya.git"
+    "url": "git+https://github.com/RVCC-IDMX/first-serverless-payalazelaya.gi"
   },
   "author": "Paola Ayala Zelaya <paolaaz235@gmail.com> (https://github.com/payalazelaya)",
   "license": "MIT",
   "bugs": {
-    "url": "git+https://github.com/RVCC-IDMX/first-serverless-payalazelaya/issues"
+    "url": "https://github.com/RVCC-IDMX/first-serverless-cynthiateeters/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/first-serverless-payalazelaya#readme",
-  "dependencies": {
-    "chalk": "^5.0.1",
-    "luxon": "^2.3.2"
-  }
+  "homepage": "https://github.com/RVCC-IDMX/first-serverless-cynthiateeters#readme"
 }
