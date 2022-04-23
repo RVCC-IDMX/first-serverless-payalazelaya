@@ -19,5 +19,9 @@
   "bugs": {
     "url": "git+https://github.com/RVCC-IDMX/first-serverless-payalazelaya/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/first-serverless-payalazelaya#readme"
+  "homepage": "https://github.com/RVCC-IDMX/first-serverless-payalazelaya#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "luxon": "^2.3.2"
+  }
 }
